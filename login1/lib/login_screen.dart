@@ -1,4 +1,6 @@
-pimport 'package:flutter/material.dart';
+// ignore_for_file: use_key_in_widget_constructors, no_leading_underscores_for_local_identifiers, prefer_const_constructors, prefer_const_literals_to_create_immutables, avoid_print, sort_child_properties_last
+
+import'package:flutter/material.dart';
 import 'Home_page.dart';
 
 class LoginScreen extends StatelessWidget {
